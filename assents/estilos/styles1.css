@@ -81,3 +81,48 @@ body {
     font-size: 20px;
     margin-bottom: 15px;
 }
+
+.sobre{
+    background-color: aquamarine;
+}
+
+.sobre-content{
+    text-align: center;
+}
+
+.sobre-content h2{
+    font-size: 55px;
+    line-height: 70px;
+    color: #6198F2;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.sobre-content p{
+    font-size: 16px;
+    line-height: 70px;
+    margin-bottom: 50px;
+    padding: 0 100px;
+}
+
+.sobre-group{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.sobre-1{
+    padding: 0 100px;
+}
+
+.sobre-1 img{
+    width: 200px;
+    margin-bottom: 15px;
+}
+
+.sobre-1 h3{
+    color: black;
+    font-size: 18px;
+}
+
+
