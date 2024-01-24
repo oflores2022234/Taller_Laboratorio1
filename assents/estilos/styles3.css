@@ -25,3 +25,94 @@ body{
     height: 50px;
     bottom: 0;
 }
+
+.general{
+    display: flex;
+}
+
+.general-1{
+    width: 50%;
+    padding: 100px 250px 100px 100px;
+    background-color: beige;
+}
+
+.general-1 h2{
+    color: black;
+  font-size: 18px;
+}
+
+.general-2{
+    background-image: url(https://images.opusdei.org/?url=https://odnmedia.s3.amazonaws.com/image/opus-dei-caaf182b68e1099bf99cf18d4b52ade6.jpg&w=600&output=jpg&il&bg=white);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60%;
+}
+
+
+
+.sobre {
+    background-image: linear-gradient(
+        rgba(0,0,0,0.7),
+        rgba(0,0,0,0.7)),
+        url(/assents/recursos/kinal2.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 100px 0;
+}
+
+
+  
+.sobre-content{
+    text-align: center;
+  }
+  
+  .sobre-content h2{
+    font-size: 55px;
+    line-height: 70px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+  }
+  
+  
+  
+  .sobre-content p{
+    font-size: 16px;
+    line-height: 70px;
+    margin-bottom: 50px;
+    padding: 0 100px;
+  }
+  
+  .sobre-group{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  
+  .sobre-1{
+    padding: 0 100px;
+  }
+  
+  .sobre-1 img{
+    width: 200px;
+    margin-bottom: 15px;
+  }
+  
+  .sobre-1 h3{
+    color: white;
+    font-size: 18px;
+  }
+  
+/**/
+  .general-3 { 
+    background-image: url(https://img.freepik.com/vector-premium/programador-joven-estudiante-escribiendo-codigo-computadora_316839-1930.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+}
+  
+  
