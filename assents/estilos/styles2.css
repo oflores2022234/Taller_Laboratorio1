@@ -86,7 +86,7 @@ header, .footer {
 }
 
 .general-2 {
-    background-image: url(https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png);
+    background-image: url(../recursos/programador.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,9 +94,64 @@ header, .footer {
 }
     
 .general-3 {
-    background-image: url(https://cloud2data.com/wp-content/uploads/2023/01/HTML-CSS-Review.png);
+    background-image: url(https://img.freepik.com/vector-premium/programador-joven-estudiante-escribiendo-codigo-computadora_316839-1930.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
+}
+
+
+main {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+  text-align: right;
+}
+
+.seccion {
+  border: 10px solid #142850;
+  border-radius: 20px;
+  margin: 10px auto;
+  padding: 20px;
+  text-align: left;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+
+.seccion h2 {
+  margin-top: 0;
+  color: black;
+}
+
+.seccion h3 {
+  margin-top: 0;
+  color: black;
+}
+
+.seccion p {
+  margin-bottom: 30px;
+  text-align: left;
+  color: black;
+}
+
+.seccion .programador {
+  margin: 0 auto; 
+  display: block; 
+  height: 400px;
+  width: 400px;
+}
+
+.seccion img {
+  margin: 0 auto; 
+  display: block; 
+  height: 400px;
+  width: 800px;
 }
